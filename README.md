@@ -149,6 +149,9 @@ The [Rapid Risk Analysis (RRA) methodology](https://infosec.mozilla.org/guidelin
   * API available, which gives a lot of options for integration and automation
   * Customizable and extensible with an open format and simple syntax (for custom framework or personalized matrix)
   * Open-source first and Very active community 
+* [*SimpleRisk*](https://www.simplerisk.com/)
+  * Offerer risk professionals a powerful yet flexible platform to manage control frameworks, policies, audits, and risk mitigation strategies
+  * Dever enterprise-grade risk management without enterprise-grade costs with dynamic reporting, configurable risk formulas, and continuous development
 
 #### Netflix's riskquant
 
