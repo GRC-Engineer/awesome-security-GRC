@@ -290,6 +290,8 @@ Added to that, each country would have specific cybersecurity regulations and st
 
 * [*Minimslist Risk Management*](https://github.com/magoo/minimalist-risk-management)
   * Ryan McGeehan, a founder/advisor for HackerOne, has developed minimalist documentation to describe a simple risk management program.
+* [*Uniting security standards and guidelines into one overview*](https://github.com/zeljkoobrenovic/opencre-explorer)
+  * A visual explorer of Open Common Requirement Enumerations (CREs). Data source: opencre.org.
 
 # :microphone: Podcasts
 
