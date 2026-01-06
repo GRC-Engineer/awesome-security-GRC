@@ -148,7 +148,13 @@ The [Rapid Risk Analysis (RRA) methodology](https://infosec.mozilla.org/guidelin
   * One-click Audit report generation
   * API available, which gives a lot of options for integration and automation
   * Customizable and extensible with an open format and simple syntax (for custom framework or personalized matrix)
-  * Open-source first and Very active community 
+  * Open-source first and Very active community
+    
+* [*NIS2 Shield*](https://github.com/nis2shield)
+  * Open-source ecosystem to automate EU NIS2 Directive compliance.
+  * **Backend Middleware**: Drop-in forensic logging and active defense for **Django**, **Express (Node.js)**, **Spring Boot**, and **.NET**.
+  * **Frontend Security**: **React**, **Angular**, and **Vue** guards for secure headers and session guarding.
+  * **Infrastructure**: Hardened **Terraform** modules for compliant cloud deployment (**AWS/Azure/GCP**).
 
 #### Netflix's riskquant
 
