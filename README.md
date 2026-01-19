@@ -1,5 +1,11 @@
 <img src="https://www.ideagen.com/media/11748/grc-circle.png" width="300" class="center">
 
+# Welcome to GRC Resources
+
+Whether you're a Cyber Risk Manager, Security Compliance Program Manager, Business Information Security Officer, or simply passionate about Governance, Risk, and Compliance, you've found the right place. This curated collection brings together essential resources, frameworks, tools, and insights to help security GRC professionals navigate their complex and ever-evolving field.
+
+---
+
 # :tada: Grand Repository Challenge accepted!
 
 This is a list of resources for security GRC folks.
