@@ -149,6 +149,13 @@ The [Rapid Risk Analysis (RRA) methodology](https://infosec.mozilla.org/guidelin
   * API available, which gives a lot of options for integration and automation
   * Customizable and extensible with an open format and simple syntax (for custom framework or personalized matrix)
   * Open-source first and Very active community 
+* [*MOSS*](https://pypi.org/project/moss-sdk/)
+  * Cryptographic signing platform for AI agents using ML-DSA-44 post-quantum signatures
+  * Creates tamper-proof audit trails for agent attribution and compliance
+  * Policy engine for allow/block/hold rules on agent actions
+  * Framework integrations: LangChain, LangGraph, CrewAI, AutoGen
+  * Offline verification without network calls
+  * Essential for SOX, GDPR, and other regulatory compliance when using AI agents
 
 #### Netflix's riskquant
 
