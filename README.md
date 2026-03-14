@@ -89,7 +89,7 @@ The Committee of Sponsoring Organizations of the Treadway Commission [(COSO)](ht
 #### International Organization for Standardization (ISO)
 
 [ISO/IEC 27005:2022
-Information security, cybersecurity and privacy protection — Guidance on managing information security risks](https://www.iso.org/standard/80585.html) provides guidelines to managing _information security risks_ faced by organizations. The application of these guidelines can be applied to an Information Security Management System (ISMS) specified in ISO/IEC 27001 and ISO/IEC 27002.
+Information security, cybersecurity and privacy protection â Guidance on managing information security risks](https://www.iso.org/standard/80585.html) provides guidelines to managing _information security risks_ faced by organizations. The application of these guidelines can be applied to an Information Security Management System (ISMS) specified in ISO/IEC 27001 and ISO/IEC 27002.
 
 A technical committee named [ISO/IEC JTC 1/SC 27](https://www.iso.org/committee/45306.html) focus on the development of standards for the protection of information and ICT.
 
@@ -97,13 +97,13 @@ A technical committee named [ISO/IEC JTC 1/SC 27](https://www.iso.org/committee/
 
 The ISO 31000 Risk Management umbrella include some specifications still under development:
 ISO 31000:2018
-Risk management — Guidelines
- * [ISO 31000 Risk management – Guidelines](https://www.iso.org/standard/65694.html)
- * [ISO 31000:2019 Risk Management – Risk Assessment Techniques](https://www.iso.org/standard/72140.html)
- * [ISO 31022:2020 Risk Management — Guidelines for the management of legal risk](https://www.iso.org/standard/69295.html)
- * [ISO/FDIS 31030 Travel Risk Management — Guidance for organizations](https://www.iso.org/standard/54204.html)
- * [ISO/AWI 31050 – Guidance for managing emerging risks to enhance resilience](https://www.iso.org/standard/54224.html)
- * [ISO/DIS 31073 Risk Management – Vocabulary](https://www.iso.org/standard/79637.html)
+Risk management â Guidelines
+ * [ISO 31000 Risk management â Guidelines](https://www.iso.org/standard/65694.html)
+ * [ISO 31000:2019 Risk Management â Risk Assessment Techniques](https://www.iso.org/standard/72140.html)
+ * [ISO 31022:2020 Risk Management â Guidelines for the management of legal risk](https://www.iso.org/standard/69295.html)
+ * [ISO/FDIS 31030 Travel Risk Management â Guidance for organizations](https://www.iso.org/standard/54204.html)
+ * [ISO/AWI 31050 â Guidance for managing emerging risks to enhance resilience](https://www.iso.org/standard/54224.html)
+ * [ISO/DIS 31073 Risk Management â Vocabulary](https://www.iso.org/standard/79637.html)
 
 A technical committee named[ISO/TC 262](https://www.iso.org/committee/629121.html) focus on the development of standards in the field of risk management. Visit the Technical Committee's own [website](https://committee.iso.org/home/tc262) for more information.
 
@@ -117,8 +117,8 @@ Note that [NIST Special Publications 800-53 revision 5](https://nvlpubs.nist.gov
 
 * [Special Publication 800-37: Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy](https://csrc.nist.gov/publications/detail/sp/800-37/rev-2/final)
 * [Special Publication 800-39: Managing Information Security Risk: Organization, Mission, and Information System View](https://csrc.nist.gov/publications/detail/sp/800-39/final)
-* [Special Publication 800-30 Rev. 1: Guide for Conducting Risk Assessments](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final) 
-* [Special Publication 800-53A: Assessing Security and Privacy Controls in Federal Information Systems and Organizations: Building Effective Assessment Plans](https://csrc.nist.gov/publications/detail/sp/800-53a/rev-4/final) 
+* [Special Publication 800-30 Rev. 1: Guide for Conducting Risk Assessments](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final)Â 
+* [Special Publication 800-53A: Assessing Security and Privacy Controls in Federal Information Systems and Organizations: Building Effective Assessment Plans](https://csrc.nist.gov/publications/detail/sp/800-53a/rev-4/final)Â 
 * [Special Publication 800-161: Supply Chain Risk Management Practices for Federal Information Systems and Organizations](https://csrc.nist.gov/publications/detail/sp/800-161/final)
 
 #### Operationally Critical Threat, Asset and Vulnerability Evaluation (OCTAVE)
@@ -174,12 +174,12 @@ Well...  There are a lot.  Your organization likely uses some of these, but cert
 * :hospital: Health Insurance Portability and Accountability Act - [HIPAA](https://www.hhs.gov/hipaa/index.html)
 * :white_flag: International Organisation for Standardization's Information Security Management Standard - [ISO 27001](https://www.iso.org/isoiec-27001-information-security.html)
 * :computer: Systems and Organization Controls for Service Organizations: Trust Services Criteria - [SOC2](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html)
-* ☁️ Federal Risk and Authorization Management Program - [FedRAMP](https://www.fedramp.gov/)
+* âï¸ Federal Risk and Authorization Management Program - [FedRAMP](https://www.fedramp.gov/)
 * :statue_of_liberty: Federal Information Security Modernization Act - [FISMA](https://www.cisa.gov/federal-information-security-modernization-act)
 * :oncoming_police_car: Security and Privacy Controls for Information Systems and Organizations - [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
-* 🗄️ Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations - [NIST SP 800-171 Rev. 2](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final)
-* 📏 NIST Cybersecurity Framework - [NIST CSF](https://www.nist.gov/cyberframework)
-* 🇪🇺 Directive on measures for a high common level of cybersecurity across the Union - [NIS2 Directive](https://digital-strategy.ec.europa.eu/en/policies/nis2-directive)
+* ðï¸ Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations - [NIST SP 800-171 Rev. 2](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final)
+* ð NIST Cybersecurity Framework - [NIST CSF](https://www.nist.gov/cyberframework)
+* ðªðº Directive on measures for a high common level of cybersecurity across the Union - [NIS2 Directive](https://digital-strategy.ec.europa.eu/en/policies/nis2-directive)
 
 Added to that, each country would have specific cybersecurity regulations and standards companies would have to comply with. They could be specific to certain industries (critical infrastructures or financial services) or applicable to every company. As our planet is made of a lot of countries, we won't list the specifics here and as is often the case, US standards are picked up in most of the world anyway!
 
@@ -206,7 +206,7 @@ Added to that, each country would have specific cybersecurity regulations and st
   * High-level overview of Information Security, touching on every topic relevant for a practitioner or a newcomer to the field
   * This baseline of knowledge is great to ensure you understand every control in your framework of choice
 
-* [**ISO 27001 controls – A guide to implementing and auditing**, *Bridget Kenyon*, 2019](https://learning.oreilly.com/library/view/iso-27001-controls/9781787781467/)
+* [**ISO 27001 controls â A guide to implementing and auditing**, *Bridget Kenyon*, 2019](https://learning.oreilly.com/library/view/iso-27001-controls/9781787781467/)
   * Bridget Kenyon has been involved in the development of the ISO 27001 standards for over a decade so you should probably listen
   * This goes through every control from Annex A. and provides guidance and how to implement and audit them. Useful for building your ISMS, performing internal audits or kickstarting your career as a beloved ISO auditor!
 
@@ -291,6 +291,9 @@ Added to that, each country would have specific cybersecurity regulations and st
 * [*Minimslist Risk Management*](https://github.com/magoo/minimalist-risk-management)
   * Ryan McGeehan, a founder/advisor for HackerOne, has developed minimalist documentation to describe a simple risk management program.
 
+
+* [*CertiFlow AI*](https://github.com/itsoumya-d/certiflow-ai)
+  * Open-source agentic GRC platform using AI agents for continuous SOC 2 and ISO 27001 compliance automation. Built with Next.js 14 + TypeScript, MIT license.
 # :microphone: Podcasts
 
 * [*The SecureWorld Sessions*](https://podcasts.apple.com/us/podcast/the-secureworld-sessions/id1478674556)
@@ -313,7 +316,7 @@ Added to that, each country would have specific cybersecurity regulations and st
 
 ## Security GRC Episodes
 
-* [**Getting Over Our "Security ≠ Compliance" Obsession**, *CISO-Security Vendor Relationship Podcast*](https://podcasts.google.com/feed/aHR0cHM6Ly9kYXZpZHNwYXJrLmxpYnN5bi5jb20vY2lzb3ZlbmRvcg/episode/ZThiNjFmNGU0ZTVhNDAzM2E4YTQxZDkzYjE0M2E3NjA?sa=X&ved=0CAIQuIEEahcKEwiAg7brqqnxAhUAAAAAHQAAAAAQIQ) - Featuring David Spark, Mike Johnson and special guest Chris Hymes (Head of Infosec, Riot Games)
+* [**Getting Over Our "Security â  Compliance" Obsession**, *CISO-Security Vendor Relationship Podcast*](https://podcasts.google.com/feed/aHR0cHM6Ly9kYXZpZHNwYXJrLmxpYnN5bi5jb20vY2lzb3ZlbmRvcg/episode/ZThiNjFmNGU0ZTVhNDAzM2E4YTQxZDkzYjE0M2E3NjA?sa=X&ved=0CAIQuIEEahcKEwiAg7brqqnxAhUAAAAAHQAAAAAQIQ) - Featuring David Spark, Mike Johnson and special guest Chris Hymes (Head of Infosec, Riot Games)
 
 * [**Is Governance the Most Important Part of GRC?**, *Defense in Depth Podcast*](https://podcasts.google.com/feed/aHR0cHM6Ly9kZWZlbnNlaW5kZXB0aC5saWJzeW4uY29tL3Jzcw/episode/NTI2MTAwM2MtZWIyZS00ZmIyLWJjY2UtNzk3MWVmNzhjOTE5?sa=X&ved=0CAUQkfYCahcKEwiAg7brqqnxAhUAAAAAHQAAAAAQLg) - Featuring David Spark, Allan Alford and special guest Mustapha Kebbeh (CISO, Brinks)
 
