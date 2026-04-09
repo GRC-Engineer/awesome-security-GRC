@@ -358,3 +358,79 @@ Understanding the business language.
 Business can be empowered by a strong, comprehensive, and adaptive GRC foundation.  GRC largely exists to support business objectives and corresponding legal (but not always) requirements.  
 
 Some regulations are compulsory to conduct business within geographic areas - Such as Sarbanes-Oxley (SOX) for publicly traded US companies...  While some requirements are set within industry without governmental oversight (see - Payment Card Industry Data Security Standard (PCI DSS)).
+
+
+---
+
+## 🤖 AI Governance & Emerging Technology Risk
+
+> *Section contributed by [Ankit Uniyal](https://github.com/Ankit-Uniyal) — GRC Lead, PureHealth Group | ISO 42001 Lead Auditor | AI Governance Professional*
+
+As AI becomes pervasive in enterprise environments, GRC professionals must extend their toolkit beyond traditional frameworks. This section covers AI governance frameworks, regulations, and tools that help security GRC teams manage AI-related risks.
+
+### 🧠 AI Risk & Governance Frameworks
+
+- **[ISO/IEC 42001:2023](https://www.iso.org/standard/81230.html)** — AI Management Systems (AIMS). The international standard for establishing, implementing, maintaining and continually improving an AI management system within an organization. The AI equivalent of ISO 27001.
+- **[NIST AI Risk Management Framework (AI RMF 1.0)](https://airc.nist.gov/RMF)** — A voluntary framework to better manage risks to individuals, organizations, and society associated with AI. Covers: Govern, Map, Measure, Manage.
+- **[EU AI Act](https://artificialintelligenceact.eu/)** — The world's first comprehensive AI regulation, establishing risk-based requirements for AI systems deployed in the EU. Risk categories: Unacceptable → High → Limited → Minimal.
+- **[OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)** — The definitive guide to the top 10 security risks in Large Language Model applications. Essential for AI security assessments.
+- **[CSA AI Safety Initiative](https://cloudsecurityalliance.org/research/topics/artificial-intelligence)** — Cloud Security Alliance resources on AI security, covering AI model security, data privacy in AI, and AI supply chain risks.
+- **[MITRE ATLAS](https://atlas.mitre.org/)** — Adversarial Threat Landscape for Artificial-Intelligence Systems. A knowledge base of adversary tactics and techniques against AI systems — the AI equivalent of MITRE ATT&CK.
+
+### 🛡️ AI Security Tools & Assessments
+
+- **[AI Risk Navigator](https://dapper-parfait-b1e231.netlify.app/)** — Free AI risk assessment tool. Map your AI risks across ISO 42001, EU AI Act, NIST AI RMF, and 12+ frameworks in 5 minutes. Beginner and expert modes. Built by a practitioner for practitioners.
+- **[Garak](https://github.com/leondz/garak)** — LLM vulnerability scanner. Tests language models for various failure modes including prompt injection, hallucination, toxicity, and data leakage.
+- **[PyRIT](https://github.com/Azure/PyRIT)** — Microsoft's Python Risk Identification Toolkit for Generative AI. Automates AI red-teaming for safety and security assessment.
+
+### 📋 AI Governance Checklists & Templates
+
+Key questions every GRC professional should ask before deploying AI:
+
+1. **Data governance**: Where does the training data come from? Is it licensed?
+2. **Bias & fairness**: Has the model been tested for demographic bias?
+3. **Explainability**: Can decisions made by the AI be explained to regulators?
+4. **Human oversight**: Are humans in the loop for high-stakes decisions?
+5. **Incident response**: Is there a process for AI model failures or attacks?
+6. **Third-party AI risk**: Are AI vendors assessed like other critical third parties?
+7. **Regulatory mapping**: Which AI regulations apply (EU AI Act, NIST AI RMF, ISO 42001)?
+
+---
+
+## 🌍 Regional & Emerging Frameworks
+
+The GRC landscape is increasingly global. Here are key regional frameworks not always covered in US-centric resources:
+
+### 🇦🇪 UAE & Middle East
+
+- **[NCA Essential Cybersecurity Controls (ECC-1:2018)](https://nca.gov.sa/en/)** — Saudi Arabia's National Cybersecurity Authority essential controls. Widely adopted across the Gulf region and referenced in UAE cybersecurity programs.
+- **[UAE Information Assurance Standards (IAS)](https://tdra.gov.ae/)** — UAE's national information assurance standards for government and critical infrastructure entities.
+- **[UAE National AI Strategy 2031](https://ai.gov.ae/)** — The UAE government's strategy for becoming a global AI hub, with strong governance and ethics requirements for AI deployment.
+- **[DIFC Data Protection Law](https://www.difc.ae/business/laws-regulations/legal-database/difc-laws/data-protection-law/)** — Dubai International Financial Centre data protection regime, closely modelled on GDPR. Applicable to DIFC-registered entities.
+- **[ADGM Data Protection Regulations](https://www.adgm.com/en/media/business-news/adgm-introduces-comprehensive-data-protection-regulations)** — Abu Dhabi Global Market's data protection framework.
+
+### 🇮🇳 India
+
+- **[Digital Personal Data Protection Act (DPDP) 2023](https://www.meity.gov.in/data-protection-framework)** — India's comprehensive data protection law. Significant for any organization processing data of Indian citizens.
+- **[RBI IT Framework for Banks](https://www.rbi.org.in/)** — Reserve Bank of India's IT and cybersecurity framework for the banking sector. Highly prescriptive with specific audit and reporting requirements.
+- **[SEBI Cyber Security and Cyber Resilience Framework](https://www.sebi.gov.in/)** — Securities and Exchange Board of India's cybersecurity requirements for market infrastructure institutions.
+
+### 🇪🇺 Europe (Emerging)
+
+- **[DORA (Digital Operational Resilience Act)](https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en)** — EU regulation for operational resilience in financial services. Covers ICT risk management, incident reporting, third-party risk, and operational resilience testing. Effective January 2025.
+- **[NIS2 Directive](https://www.enisa.europa.eu/topics/cybersecurity-policy/nis-directive-new)** — Expanded version of the Network and Information Security Directive. Covers more sectors and has stricter incident reporting (24h initial, 72h full) and board-level accountability requirements.
+
+---
+
+## 🧰 Open-Source GRC Tools
+
+A curated list of open-source platforms for GRC teams:
+
+| Tool | Description | Frameworks Supported |
+|------|-------------|---------------------|
+| [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) | One-stop-shop GRC platform, 46+ frameworks | ISO 27001, SOC 2, NIST, GDPR, NIS2, DORA, and more |
+| [GigaChad GRC](https://github.com/grcengineering/gigachad-grc) | Modern open-source GRC platform for security teams | SOC 2, ISO 27001, HIPAA, vendor risk |
+| [Unicis Platform CE](https://github.com/UnicisTech/unicis-platform-ce) | Privacy, security and compliance automation | ISO 27001, GDPR, SOC 2, NIST CSF, NIS2 |
+| [Comply](https://github.com/strongdm/comply) | SOC 2-focused compliance automation | SOC 2 |
+| [riskquant](https://github.com/Netflix/riskquant) | Python library for quantitative risk analysis | FAIR-based |
+| [OpenRMF](https://github.com/Cingulara/openrmf-docs) | Open-source RMF (Risk Management Framework) tool | NIST RMF, DISA STIGs |
