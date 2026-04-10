@@ -358,3 +358,182 @@ Understanding the business language.
 Business can be empowered by a strong, comprehensive, and adaptive GRC foundation.  GRC largely exists to support business objectives and corresponding legal (but not always) requirements.  
 
 Some regulations are compulsory to conduct business within geographic areas - Such as Sarbanes-Oxley (SOX) for publicly traded US companies...  While some requirements are set within industry without governmental oversight (see - Payment Card Industry Data Security Standard (PCI DSS)).
+
+
+---
+
+## 🤖 AI Governance & Emerging Technology Risk
+
+> *Section contributed by [Ankit Uniyal](https://github.com/Ankit-Uniyal) — GRC Lead, PureHealth Group | ISO 42001 Lead Auditor | AI Governance Professional*
+
+As AI becomes pervasive in enterprise environments, GRC professionals must extend their toolkit beyond traditional frameworks. This section covers AI governance frameworks, regulations, and tools that help security GRC teams manage AI-related risks.
+
+### 🧠 AI Risk & Governance Frameworks
+
+- **[ISO/IEC 42001:2023](https://www.iso.org/standard/81230.html)** — AI Management Systems (AIMS). The international standard for establishing, implementing, maintaining and continually improving an AI management system within an organization. The AI equivalent of ISO 27001.
+- **[NIST AI Risk Management Framework (AI RMF 1.0)](https://airc.nist.gov/RMF)** — A voluntary framework to better manage risks to individuals, organizations, and society associated with AI. Covers: Govern, Map, Measure, Manage.
+- **[EU AI Act](https://artificialintelligenceact.eu/)** — The world's first comprehensive AI regulation, establishing risk-based requirements for AI systems deployed in the EU. Risk categories: Unacceptable → High → Limited → Minimal.
+- **[OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)** — The definitive guide to the top 10 security risks in Large Language Model applications. Essential for AI security assessments.
+- **[CSA AI Safety Initiative](https://cloudsecurityalliance.org/research/topics/artificial-intelligence)** — Cloud Security Alliance resources on AI security, covering AI model security, data privacy in AI, and AI supply chain risks.
+- **[MITRE ATLAS](https://atlas.mitre.org/)** — Adversarial Threat Landscape for Artificial-Intelligence Systems. A knowledge base of adversary tactics and techniques against AI systems — the AI equivalent of MITRE ATT&CK.
+
+### 🛡️ AI Security Tools & Assessments
+
+- **[AI Risk Navigator](https://dapper-parfait-b1e231.netlify.app/)** — Free AI risk assessment tool. Map your AI risks across ISO 42001, EU AI Act, NIST AI RMF, and 12+ frameworks in 5 minutes. Beginner and expert modes. Built by a practitioner for practitioners.
+- **[Garak](https://github.com/leondz/garak)** — LLM vulnerability scanner. Tests language models for various failure modes including prompt injection, hallucination, toxicity, and data leakage.
+- **[PyRIT](https://github.com/Azure/PyRIT)** — Microsoft's Python Risk Identification Toolkit for Generative AI. Automates AI red-teaming for safety and security assessment.
+
+### 📋 AI Governance Checklists & Templates
+
+Key questions every GRC professional should ask before deploying AI:
+
+1. **Data governance**: Where does the training data come from? Is it licensed?
+2. **Bias & fairness**: Has the model been tested for demographic bias?
+3. **Explainability**: Can decisions made by the AI be explained to regulators?
+4. **Human oversight**: Are humans in the loop for high-stakes decisions?
+5. **Incident response**: Is there a process for AI model failures or attacks?
+6. **Third-party AI risk**: Are AI vendors assessed like other critical third parties?
+7. **Regulatory mapping**: Which AI regulations apply (EU AI Act, NIST AI RMF, ISO 42001)?
+
+---
+
+## 🌍 Regional & Emerging Frameworks
+
+The GRC landscape is increasingly global. Here are key regional frameworks not always covered in US-centric resources:
+
+### 🇦🇪 UAE & Middle East
+
+- **[NCA Essential Cybersecurity Controls (ECC-1:2018)](https://nca.gov.sa/en/)** — Saudi Arabia's National Cybersecurity Authority essential controls. Widely adopted across the Gulf region and referenced in UAE cybersecurity programs.
+- **[UAE Information Assurance Standards (IAS)](https://tdra.gov.ae/)** — UAE's national information assurance standards for government and critical infrastructure entities.
+- **[UAE National AI Strategy 2031](https://ai.gov.ae/)** — The UAE government's strategy for becoming a global AI hub, with strong governance and ethics requirements for AI deployment.
+- **[DIFC Data Protection Law](https://www.difc.ae/business/laws-regulations/legal-database/difc-laws/data-protection-law/)** — Dubai International Financial Centre data protection regime, closely modelled on GDPR. Applicable to DIFC-registered entities.
+- **[ADGM Data Protection Regulations](https://www.adgm.com/en/media/business-news/adgm-introduces-comprehensive-data-protection-regulations)** — Abu Dhabi Global Market's data protection framework.
+
+### 🇮🇳 India
+
+- **[Digital Personal Data Protection Act (DPDP) 2023](https://www.meity.gov.in/data-protection-framework)** — India's comprehensive data protection law. Significant for any organization processing data of Indian citizens.
+- **[RBI IT Framework for Banks](https://www.rbi.org.in/)** — Reserve Bank of India's IT and cybersecurity framework for the banking sector. Highly prescriptive with specific audit and reporting requirements.
+- **[SEBI Cyber Security and Cyber Resilience Framework](https://www.sebi.gov.in/)** — Securities and Exchange Board of India's cybersecurity requirements for market infrastructure institutions.
+
+### 🇪🇺 Europe (Emerging)
+
+- **[DORA (Digital Operational Resilience Act)](https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en)** — EU regulation for operational resilience in financial services. Covers ICT risk management, incident reporting, third-party risk, and operational resilience testing. Effective January 2025.
+- **[NIS2 Directive](https://www.enisa.europa.eu/topics/cybersecurity-policy/nis-directive-new)** — Expanded version of the Network and Information Security Directive. Covers more sectors and has stricter incident reporting (24h initial, 72h full) and board-level accountability requirements.
+
+---
+
+## 🧰 Open-Source GRC Tools
+
+A curated list of open-source platforms for GRC teams:
+
+| Tool | Description | Frameworks Supported |
+|------|-------------|---------------------|
+| [CISO Assistant](https://github.com/intuitem/ciso-assistant-community) | One-stop-shop GRC platform, 46+ frameworks | ISO 27001, SOC 2, NIST, GDPR, NIS2, DORA, and more |
+| [GigaChad GRC](https://github.com/grcengineering/gigachad-grc) | Modern open-source GRC platform for security teams | SOC 2, ISO 27001, HIPAA, vendor risk |
+| [Unicis Platform CE](https://github.com/UnicisTech/unicis-platform-ce) | Privacy, security and compliance automation | ISO 27001, GDPR, SOC 2, NIST CSF, NIS2 |
+| [Comply](https://github.com/strongdm/comply) | SOC 2-focused compliance automation | SOC 2 |
+| [riskquant](https://github.com/Netflix/riskquant) | Python library for quantitative risk analysis | FAIR-based |
+| [OpenRMF](https://github.com/Cingulara/openrmf-docs) | Open-source RMF (Risk Management Framework) tool | NIST RMF, DISA STIGs |
+
+
+---
+
+## 🤝 Third-Party Risk Management (TPRM)
+
+*Section contributed by Ankit Uniyal — GRC Lead, PureHealth Group | Vendor Risk & Supply Chain Security Expert*
+
+Third-Party Risk Management is a critical component of any mature GRC program. As organizations increasingly rely on vendors, suppliers, and partners, managing the risks they introduce is essential for maintaining a strong security posture.
+
+### 📋 TPRM Frameworks & Standards
+
+- **[ISO 28000](https://www.iso.org/standard/79612.html)** — Specification for security management systems for the supply chain.
+- **[NIST SP 800-161 Rev. 1](https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final)** — Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations. Comprehensive guidance on C-SCRM.
+- **[ISO/IEC 27036](https://www.iso.org/standard/82905.html)** — Information security for supplier relationships. Four-part standard covering supplier relationship security.
+- **[SHARED ASSESSMENTS SIG](https://sharedassessments.org/sig/)** — Standardized Information Gathering questionnaire — the industry standard for third-party risk assessments.
+- **[ENISA Good Practices for Supply Chain Cybersecurity](https://www.enisa.europa.eu/publications/good-practices-for-supply-chain-cybersecurity)** — European guidance on managing supply chain cybersecurity risks.
+- **[CISA ICT Supply Chain Risk Management](https://www.cisa.gov/supply-chain)** — US Government guidance on ICT supply chain risk management.
+
+### 🛠️ TPRM Process & Lifecycle
+
+1. **Vendor Tiering** — Classify vendors by criticality: Tier 1 (Critical), Tier 2 (High), Tier 3 (Moderate), Tier 4 (Low).
+2. **Due Diligence** — Pre-contract risk assessment using SIG/CAIQ questionnaires, SOC 2 review, financial checks.
+3. **Contractual Controls** — Security addendums, DPAs, right-to-audit clauses, incident notification SLAs.
+4. **Continuous Monitoring** — Ongoing assessment via security ratings platforms and periodic reassessments.
+5. **Offboarding** — Secure data deletion, access revocation, and contract termination procedures.
+
+### 🌍 TPRM Regulatory Requirements
+
+- **DORA (Art. 28-44)** — Mandates ICT third-party risk management for financial entities; requires exit strategies and register of ICT providers.
+- **NIS2 Directive (Art. 21)** — Requires supply chain security measures as part of cybersecurity risk management obligations.
+- **PCI DSS v4.0 (Req. 12.8)** — Requirements for managing service providers including risk assessments and annual compliance acknowledgement.
+- **HIPAA** — Business Associate Agreements (BAAs) mandatory for all vendors handling Protected Health Information (PHI).
+
+---
+
+## 🚨 Incident Response & Business Continuity
+
+*Section contributed by Ankit Uniyal — GRC Lead, PureHealth Group | ISO 22301 & NIST CSF Practitioner*
+
+### 📚 Incident Response Frameworks
+
+- **[NIST SP 800-61 Rev. 2](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)** — Computer Security Incident Handling Guide. Covers preparation, detection, containment, eradication, recovery, and post-incident activities.
+- **[SANS Incident Response Process](https://www.sans.org/white-papers/33901/)** — The widely-used 6-step IR process: Preparation, Identification, Containment, Eradication, Recovery, Lessons Learned.
+- **[ISO/IEC 27035](https://www.iso.org/standard/78973.html)** — Information security incident management. International standard for security incident management.
+- **[CISA Incident Response Playbooks](https://www.cisa.gov/resources-tools/resources/federal-government-cybersecurity-incident-and-vulnerability-response-playbooks)** — Free playbooks for ransomware, phishing, and vulnerability response.
+
+### 💼 Business Continuity & Disaster Recovery
+
+- **[ISO 22301:2019](https://www.iso.org/standard/75106.html)** — Business Continuity Management Systems. The international standard for BCM.
+- **[NIST SP 800-34 Rev. 1](https://csrc.nist.gov/publications/detail/sp/800-34/rev-1/final)** — Contingency Planning Guide for Federal Information Systems.
+- **[BCI Good Practice Guidelines](https://www.thebci.org/training-qualifications/good-practice-guidelines.html)** — The Business Continuity Institute globally recognized BCM standard.
+- **[FFIEC Business Continuity Management](https://www.ffiec.gov/press/PDF/FFIEC_BCM_booklet.pdf)** — Financial sector BCM guidance.
+
+### 🧰 Open-Source IR Tools
+
+| Tool | Purpose |
+|------|---------|
+| [TheHive](https://thehive-project.org/) | Scalable open-source Security Incident Response Platform |
+| [MISP](https://www.misp-project.org/) | Malware Information Sharing Platform for threat intelligence |
+| [Velociraptor](https://www.velocidex.com/) | Digital forensics and IR tool |
+| [GRR Rapid Response](https://github.com/google/grr) | Remote live forensics framework by Google |
+
+---
+
+## 📊 GRC Metrics, KPIs & Executive Reporting
+
+*Section contributed by Ankit Uniyal — GRC Lead, PureHealth Group | Security Metrics Specialist*
+
+Measuring the effectiveness of your GRC program is critical for demonstrating value to the board and executives.
+
+### 🎯 Governance Metrics
+
+| Metric | Formula | Target |
+|--------|---------|--------|
+| Policy Review Compliance | Policies reviewed on schedule / Total policies | Greater than 95% |
+| Security Training Completion | Staff completed training / Total staff | Greater than 95% |
+| Board Security Reporting | Quarterly board security updates delivered | 100% |
+| Risk Register Currency | Risks reviewed in last 90 days / Total risks | Greater than 80% |
+
+### 📈 Risk Management Metrics
+
+| Metric | Formula | Target |
+|--------|---------|--------|
+| Risk Treatment Rate | Risks with treatment plans / Total identified risks | Greater than 90% |
+| Control Effectiveness | Controls tested and passed / Total controls tested | Greater than 85% |
+| Risk Appetite Breaches | Number of risks exceeding risk appetite threshold | Zero (escalation trigger) |
+
+### ✅ Compliance Metrics
+
+| Metric | Formula | Target |
+|--------|---------|--------|
+| Audit Finding Closure Rate | Closed findings within SLA / Total findings | Greater than 90% |
+| Control Coverage | Mapped controls / Total required controls | 100% |
+| Compliance Score | Compliant controls / Total controls per framework | Greater than 90% |
+| TPRM Assessment Coverage | Vendors assessed / Total Tier 1-2 vendors | 100% annually |
+| Vulnerability Remediation SLA | Critical vulns patched within SLA / Total critical | Greater than 95% |
+
+### 📚 Metrics & Reporting Resources
+
+- **[CIS Controls Implementation Guide v8](https://www.cisecurity.org/controls/v8)** — Includes measurement guidance for each of the 18 CIS Controls.
+- **[ISACA COBIT 2019](https://www.isaca.org/resources/cobit)** — Governance and management objectives with supporting metrics for IT and security governance.
+- **[NIST Cybersecurity Framework Measurement Guide](https://www.nist.gov/cyberframework)** — Guidance on measuring CSF implementation effectiveness.
