@@ -434,3 +434,106 @@ A curated list of open-source platforms for GRC teams:
 | [Comply](https://github.com/strongdm/comply) | SOC 2-focused compliance automation | SOC 2 |
 | [riskquant](https://github.com/Netflix/riskquant) | Python library for quantitative risk analysis | FAIR-based |
 | [OpenRMF](https://github.com/Cingulara/openrmf-docs) | Open-source RMF (Risk Management Framework) tool | NIST RMF, DISA STIGs |
+
+
+---
+
+## 🤝 Third-Party Risk Management (TPRM)
+
+*Section contributed by Ankit Uniyal — GRC Lead, PureHealth Group | Vendor Risk & Supply Chain Security Expert*
+
+Third-Party Risk Management is a critical component of any mature GRC program. As organizations increasingly rely on vendors, suppliers, and partners, managing the risks they introduce is essential for maintaining a strong security posture.
+
+### 📋 TPRM Frameworks & Standards
+
+- **[ISO 28000](https://www.iso.org/standard/79612.html)** — Specification for security management systems for the supply chain.
+- **[NIST SP 800-161 Rev. 1](https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final)** — Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations. Comprehensive guidance on C-SCRM.
+- **[ISO/IEC 27036](https://www.iso.org/standard/82905.html)** — Information security for supplier relationships. Four-part standard covering supplier relationship security.
+- **[SHARED ASSESSMENTS SIG](https://sharedassessments.org/sig/)** — Standardized Information Gathering questionnaire — the industry standard for third-party risk assessments.
+- **[ENISA Good Practices for Supply Chain Cybersecurity](https://www.enisa.europa.eu/publications/good-practices-for-supply-chain-cybersecurity)** — European guidance on managing supply chain cybersecurity risks.
+- **[CISA ICT Supply Chain Risk Management](https://www.cisa.gov/supply-chain)** — US Government guidance on ICT supply chain risk management.
+
+### 🛠️ TPRM Process & Lifecycle
+
+1. **Vendor Tiering** — Classify vendors by criticality: Tier 1 (Critical), Tier 2 (High), Tier 3 (Moderate), Tier 4 (Low).
+2. **Due Diligence** — Pre-contract risk assessment using SIG/CAIQ questionnaires, SOC 2 review, financial checks.
+3. **Contractual Controls** — Security addendums, DPAs, right-to-audit clauses, incident notification SLAs.
+4. **Continuous Monitoring** — Ongoing assessment via security ratings platforms and periodic reassessments.
+5. **Offboarding** — Secure data deletion, access revocation, and contract termination procedures.
+
+### 🌍 TPRM Regulatory Requirements
+
+- **DORA (Art. 28-44)** — Mandates ICT third-party risk management for financial entities; requires exit strategies and register of ICT providers.
+- **NIS2 Directive (Art. 21)** — Requires supply chain security measures as part of cybersecurity risk management obligations.
+- **PCI DSS v4.0 (Req. 12.8)** — Requirements for managing service providers including risk assessments and annual compliance acknowledgement.
+- **HIPAA** — Business Associate Agreements (BAAs) mandatory for all vendors handling Protected Health Information (PHI).
+
+---
+
+## 🚨 Incident Response & Business Continuity
+
+*Section contributed by Ankit Uniyal — GRC Lead, PureHealth Group | ISO 22301 & NIST CSF Practitioner*
+
+### 📚 Incident Response Frameworks
+
+- **[NIST SP 800-61 Rev. 2](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)** — Computer Security Incident Handling Guide. Covers preparation, detection, containment, eradication, recovery, and post-incident activities.
+- **[SANS Incident Response Process](https://www.sans.org/white-papers/33901/)** — The widely-used 6-step IR process: Preparation, Identification, Containment, Eradication, Recovery, Lessons Learned.
+- **[ISO/IEC 27035](https://www.iso.org/standard/78973.html)** — Information security incident management. International standard for security incident management.
+- **[CISA Incident Response Playbooks](https://www.cisa.gov/resources-tools/resources/federal-government-cybersecurity-incident-and-vulnerability-response-playbooks)** — Free playbooks for ransomware, phishing, and vulnerability response.
+
+### 💼 Business Continuity & Disaster Recovery
+
+- **[ISO 22301:2019](https://www.iso.org/standard/75106.html)** — Business Continuity Management Systems. The international standard for BCM.
+- **[NIST SP 800-34 Rev. 1](https://csrc.nist.gov/publications/detail/sp/800-34/rev-1/final)** — Contingency Planning Guide for Federal Information Systems.
+- **[BCI Good Practice Guidelines](https://www.thebci.org/training-qualifications/good-practice-guidelines.html)** — The Business Continuity Institute globally recognized BCM standard.
+- **[FFIEC Business Continuity Management](https://www.ffiec.gov/press/PDF/FFIEC_BCM_booklet.pdf)** — Financial sector BCM guidance.
+
+### 🧰 Open-Source IR Tools
+
+| Tool | Purpose |
+|------|---------|
+| [TheHive](https://thehive-project.org/) | Scalable open-source Security Incident Response Platform |
+| [MISP](https://www.misp-project.org/) | Malware Information Sharing Platform for threat intelligence |
+| [Velociraptor](https://www.velocidex.com/) | Digital forensics and IR tool |
+| [GRR Rapid Response](https://github.com/google/grr) | Remote live forensics framework by Google |
+
+---
+
+## 📊 GRC Metrics, KPIs & Executive Reporting
+
+*Section contributed by Ankit Uniyal — GRC Lead, PureHealth Group | Security Metrics Specialist*
+
+Measuring the effectiveness of your GRC program is critical for demonstrating value to the board and executives.
+
+### 🎯 Governance Metrics
+
+| Metric | Formula | Target |
+|--------|---------|--------|
+| Policy Review Compliance | Policies reviewed on schedule / Total policies | Greater than 95% |
+| Security Training Completion | Staff completed training / Total staff | Greater than 95% |
+| Board Security Reporting | Quarterly board security updates delivered | 100% |
+| Risk Register Currency | Risks reviewed in last 90 days / Total risks | Greater than 80% |
+
+### 📈 Risk Management Metrics
+
+| Metric | Formula | Target |
+|--------|---------|--------|
+| Risk Treatment Rate | Risks with treatment plans / Total identified risks | Greater than 90% |
+| Control Effectiveness | Controls tested and passed / Total controls tested | Greater than 85% |
+| Risk Appetite Breaches | Number of risks exceeding risk appetite threshold | Zero (escalation trigger) |
+
+### ✅ Compliance Metrics
+
+| Metric | Formula | Target |
+|--------|---------|--------|
+| Audit Finding Closure Rate | Closed findings within SLA / Total findings | Greater than 90% |
+| Control Coverage | Mapped controls / Total required controls | 100% |
+| Compliance Score | Compliant controls / Total controls per framework | Greater than 90% |
+| TPRM Assessment Coverage | Vendors assessed / Total Tier 1-2 vendors | 100% annually |
+| Vulnerability Remediation SLA | Critical vulns patched within SLA / Total critical | Greater than 95% |
+
+### 📚 Metrics & Reporting Resources
+
+- **[CIS Controls Implementation Guide v8](https://www.cisecurity.org/controls/v8)** — Includes measurement guidance for each of the 18 CIS Controls.
+- **[ISACA COBIT 2019](https://www.isaca.org/resources/cobit)** — Governance and management objectives with supporting metrics for IT and security governance.
+- **[NIST Cybersecurity Framework Measurement Guide](https://www.nist.gov/cyberframework)** — Guidance on measuring CSF implementation effectiveness.
