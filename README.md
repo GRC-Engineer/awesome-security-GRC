@@ -149,6 +149,9 @@ The [Rapid Risk Analysis (RRA) methodology](https://infosec.mozilla.org/guidelin
   * API available, which gives a lot of options for integration and automation
   * Customizable and extensible with an open format and simple syntax (for custom framework or personalized matrix)
   * Open-source first and Very active community 
+* [*CISA KEV Deadline Planner*](https://kev-deadline-planner.vercel.app/)
+  * Browser-only planner for matching pasted CVEs against the CISA Known Exploited Vulnerabilities catalog and turning BOD 22-01 due dates into Markdown, CSV, and ICS triage artifacts.
+  * Source: [Turner-Levey/kev-deadline-planner](https://github.com/Turner-Levey/kev-deadline-planner)
 
 #### Netflix's riskquant
 
