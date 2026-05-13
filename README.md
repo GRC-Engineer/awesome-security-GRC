@@ -140,6 +140,15 @@ The [Rapid Risk Analysis (RRA) methodology](https://infosec.mozilla.org/guidelin
     * Policy Generator: markdown-powered document pipeline for publishing auditor-friendly policy documents
     * Ticketing Integration: automate compliance throughout the year via your existing ticketing system
     * SOC2 Templates: open source policy and procedure templates suitable for satisfying a SOC2 audit
+* [*CISO Assistant*](https://github.com/intuitem/ciso-assistant-community)
+  * One-Stop-Shop solution for Governance, Risk Management and Compliance
+  * Support +46 frameworks worldwide
+  * Available in +8 languages
+  * Suppport multi level frameworks and maturity assessment
+  * One-click Audit report generation
+  * API available, which gives a lot of options for integration and automation
+  * Customizable and extensible with an open format and simple syntax (for custom framework or personalized matrix)
+  * Open-source first and Very active community 
 
 #### Netflix's riskquant
 
@@ -170,6 +179,7 @@ Well...  There are a lot.  Your organization likely uses some of these, but cert
 * :oncoming_police_car: Security and Privacy Controls for Information Systems and Organizations - [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
 * 🗄️ Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations - [NIST SP 800-171 Rev. 2](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final)
 * 📏 NIST Cybersecurity Framework - [NIST CSF](https://www.nist.gov/cyberframework)
+* 🇪🇺 Directive on measures for a high common level of cybersecurity across the Union - [NIS2 Directive](https://digital-strategy.ec.europa.eu/en/policies/nis2-directive)
 
 Added to that, each country would have specific cybersecurity regulations and standards companies would have to comply with. They could be specific to certain industries (critical infrastructures or financial services) or applicable to every company. As our planet is made of a lot of countries, we won't list the specifics here and as is often the case, US standards are picked up in most of the world anyway!
 
@@ -294,7 +304,7 @@ Added to that, each country would have specific cybersecurity regulations and st
 * [*Security & Compliance Weekly*](https://podcasts.google.com/feed/aHR0cHM6Ly9zY3dhdWRpby5saWJzeW4uY29tL3Jzcw) - Hosted by Jeff Man, Scott Lyons and Josh Marpet
   * The name is pretty telling. PCI is often discussed in-depth, useful if you're responsible for your company's PCI-DSS program!
 
-* [*Risk, Governance and Cyber Compliance*](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83MjMzOTkucnNz?sa=X&ved=0CAkQlvsGahcKEwjonfmhqKnxAhUAAAAAHQAAAAAQAg) - Hosted by Dr. Bill Souza
+* [*Risk, Governance and Cyber Compliance*](https://open.spotify.com/show/5bHDGCy7HopSh2tpA4ZRoL) - Hosted by Dr. Bill Souza
   * The last episode dates back to late 2020 but the content is top-notch and his views on risk management are worth a listen.
 
 * [*The GRC Podcast*](https://www.thegrcpodcast.com/) - Hosted by Mark Graziano
