@@ -291,6 +291,9 @@ Added to that, each country would have specific cybersecurity regulations and st
 * [*Minimslist Risk Management*](https://github.com/magoo/minimalist-risk-management)
   * Ryan McGeehan, a founder/advisor for HackerOne, has developed minimalist documentation to describe a simple risk management program.
 
+* [*SIG Lite Answer Library Template*](https://github.com/jasonezard/sig-lite-answer-library)
+  * A free, ungated CSV template for building a reusable security-questionnaire answer library — SIG-style risk domains, evidence/citation columns, and worked examples including the honest-gap-with-compensating-control pattern.
+
 # :microphone: Podcasts
 
 * [*The SecureWorld Sessions*](https://podcasts.apple.com/us/podcast/the-secureworld-sessions/id1478674556)
