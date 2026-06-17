@@ -291,6 +291,9 @@ Added to that, each country would have specific cybersecurity regulations and st
 * [*Minimslist Risk Management*](https://github.com/magoo/minimalist-risk-management)
   * Ryan McGeehan, a founder/advisor for HackerOne, has developed minimalist documentation to describe a simple risk management program.
 
+* [*Awesome Corporate Standards*](https://github.com/openapi/awesome-corporate-standards)
+  * A curated, multilingual (EN/IT/DE/ES) list of international standards, frameworks, and certification bodies for organizations — covering quality, information security, privacy, ESG, finance, and GRC, with links to the official issuing bodies.
+
 # :microphone: Podcasts
 
 * [*The SecureWorld Sessions*](https://podcasts.apple.com/us/podcast/the-secureworld-sessions/id1478674556)
