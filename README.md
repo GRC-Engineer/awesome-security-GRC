@@ -149,6 +149,8 @@ The [Rapid Risk Analysis (RRA) methodology](https://infosec.mozilla.org/guidelin
   * API available, which gives a lot of options for integration and automation
   * Customizable and extensible with an open format and simple syntax (for custom framework or personalized matrix)
   * Open-source first and Very active community 
+* [*heygrc*](https://heygrc.com)
+  * GitHub App that reviews pull requests against your compliance frameworks (ISO 27001, SOC 2, GDPR, EU AI Act and more) and flags control-relevant changes inline, citing the clause. By ISMS Copilot
 
 #### Netflix's riskquant
 
