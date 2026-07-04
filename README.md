@@ -290,6 +290,9 @@ Added to that, each country would have specific cybersecurity regulations and st
 
 * [*Minimslist Risk Management*](https://github.com/magoo/minimalist-risk-management)
   * Ryan McGeehan, a founder/advisor for HackerOne, has developed minimalist documentation to describe a simple risk management program.
+* [*CMMC / NIST 800-171 Control Reference*](https://github.com/BrianRDS1518/cmmc-nist-800-171-reference)
+  * Open (CC BY 4.0) quick-reference index of all 110 NIST SP 800-171 controls with each control's SPRS point weight.
+  * Companion to the free, no-signup tools at [objective320.com](https://objective320.com/) — a SPRS score calculator and an SSP generator for small defense contractors.
 
 # :microphone: Podcasts
 
