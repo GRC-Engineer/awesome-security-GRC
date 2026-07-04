@@ -291,6 +291,9 @@ Added to that, each country would have specific cybersecurity regulations and st
 * [*Minimslist Risk Management*](https://github.com/magoo/minimalist-risk-management)
   * Ryan McGeehan, a founder/advisor for HackerOne, has developed minimalist documentation to describe a simple risk management program.
 
+* [*GRC_Claw*](https://github.com/AAH20/GRC_Claw)
+  * Open-source, MIT-licensed GRC automation engine. 90 packages, a 27,596-mapping control crosswalk across 13 frameworks and 824 controls, plus a CLI, SDK, Terraform provider, and a native AI agent governance layer (agent identity registry, runtime policy firewall, hash-chained attestation ledger).
+
 # :microphone: Podcasts
 
 * [*The SecureWorld Sessions*](https://podcasts.apple.com/us/podcast/the-secureworld-sessions/id1478674556)
