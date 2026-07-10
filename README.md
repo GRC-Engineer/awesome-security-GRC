@@ -291,6 +291,12 @@ Added to that, each country would have specific cybersecurity regulations and st
 * [*Minimslist Risk Management*](https://github.com/magoo/minimalist-risk-management)
   * Ryan McGeehan, a founder/advisor for HackerOne, has developed minimalist documentation to describe a simple risk management program.
 
+* [*FORLAS CRQ*](https://github.com/RiskByDesign/forlas-crq)
+  * A local-first, open beta cyber risk quantification platform built on the FAIR methodology: Monte Carlo simulation, portfolio aggregation and loss exceedance curves, with executive reporting. Runs fully offline, no cloud, no telemetry.
+
+* [*Calibrated Course*](https://github.com/RiskByDesign/Calibrated_Course)
+  * Free, offline HTML tools that train calibrated probability estimation for risk assessors, in the style of Hubbard's How to Measure Anything: a practice trainer with Brier scoring plus a nine-module course.
+
 # :microphone: Podcasts
 
 * [*The SecureWorld Sessions*](https://podcasts.apple.com/us/podcast/the-secureworld-sessions/id1478674556)
