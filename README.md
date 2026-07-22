@@ -288,6 +288,9 @@ Added to that, each country would have specific cybersecurity regulations and st
 
 # :octocat: Repositories
 
+* [*halo-record*](https://github.com/bkuan001/halo-record)
+  * Open-source, tamper-evident records of what AI agents actually do — hash-chained runtime logs with self-verifying reports for security reviews, plus deterministic policy checks against AIUC-1 and the OWASP Agentic Top 10.
+
 * [*Minimslist Risk Management*](https://github.com/magoo/minimalist-risk-management)
   * Ryan McGeehan, a founder/advisor for HackerOne, has developed minimalist documentation to describe a simple risk management program.
 
