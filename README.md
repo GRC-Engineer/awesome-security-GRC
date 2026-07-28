@@ -358,3 +358,8 @@ Understanding the business language.
 Business can be empowered by a strong, comprehensive, and adaptive GRC foundation.  GRC largely exists to support business objectives and corresponding legal (but not always) requirements.  
 
 Some regulations are compulsory to conduct business within geographic areas - Such as Sarbanes-Oxley (SOX) for publicly traded US companies...  While some requirements are set within industry without governmental oversight (see - Payment Card Industry Data Security Standard (PCI DSS)).
+
+
+## AI Governance
+
+- [Gracestack AI-Policy](https://tools.gracestack.se/ai-policy.html) — EU AI Act compliance template for organizations. Includes risk classification, DPIA/GDPR integration, incident response, and annual review. Pay-once (499 SEK), delivered as Word document.
