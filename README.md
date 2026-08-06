@@ -291,6 +291,9 @@ Added to that, each country would have specific cybersecurity regulations and st
 * [*Minimslist Risk Management*](https://github.com/magoo/minimalist-risk-management)
   * Ryan McGeehan, a founder/advisor for HackerOne, has developed minimalist documentation to describe a simple risk management program.
 
+* [*Chiaro SOC 2 Methodology*](https://github.com/Chiaro-HQ/methodology)
+  * A CPA firm's complete SOC 2 audit methodology, published openly under CC BY 4.0: 89 controls, 369 test attributes with pass criteria, the 61 Trust Services Criteria, evidence standards, a HIPAA Security Rule crosswalk, and the census-based Type II testing method. The control library ships as JSON, so you can run your own readiness against the same criteria an examination uses.
+
 # :microphone: Podcasts
 
 * [*The SecureWorld Sessions*](https://podcasts.apple.com/us/podcast/the-secureworld-sessions/id1478674556)
