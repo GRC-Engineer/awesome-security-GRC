@@ -234,6 +234,11 @@ Added to that, each country would have specific cybersecurity regulations and st
     * Security Architecture
     * Communication, Education and Awareness
 
+* [**The Authorization Maturity Model**, Alex Olivier, 2026](https://solutions.cerbos.dev/authorization-maturity-model-a-cisos-benchmark)
+  * A free, four-stage maturity model (ad-hoc to governed) for benchmarking where an authorization program actually stands, based on how it runs in production rather than what the documentation says.
+  * Maps per-stage exposure to NIS2, DORA, SEC, the EU AI Act and more, with a 90-day plan to close the gaps.
+  * Includes a 15-question self-assessment a team can run in about an hour. Useful for GRC and security teams translating authorization posture into audit and board language.
+
 # :tv: Talks/Videos
 
 * A [great foundational talk](https://www.youtube.com/watch?v=dt2IqidgpS4) to understand how every framework are working into one another:
