@@ -149,6 +149,13 @@ The [Rapid Risk Analysis (RRA) methodology](https://infosec.mozilla.org/guidelin
   * API available, which gives a lot of options for integration and automation
   * Customizable and extensible with an open format and simple syntax (for custom framework or personalized matrix)
   * Open-source first and Very active community 
+* [*open-isms*](https://github.com/NISD2/open-isms)
+  * Self-hostable ISMS built around the EU NIS 2 Directive (AGPL-3.0)
+  * The 49 requirements from Directive (EU) 2022/2555 and Implementing Regulation (EU) 2024/2690
+  * GDPR, ISO 27001, EU AI Act and CRA mapped against them
+  * Owner, deadline and sign-off per requirement, with an append-only audit trail
+  * Article 23 incident notification format published as an open schema
+  * Asset, supplier and risk registers, plus supplier questionnaires
 
 #### Netflix's riskquant
 
