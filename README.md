@@ -291,6 +291,18 @@ Added to that, each country would have specific cybersecurity regulations and st
 * [*Minimslist Risk Management*](https://github.com/magoo/minimalist-risk-management)
   * Ryan McGeehan, a founder/advisor for HackerOne, has developed minimalist documentation to describe a simple risk management program.
 
+* [*Awesome SOC 2*](https://github.com/TrazTech-Inc/awesome-soc2)
+  * Curated list of SOC 2 resources, tools, and guides.
+
+* [*Startup Security Policies*](https://github.com/TrazTech-Inc/startup-security-policies)
+  * Security policy templates mapped to SOC 2 and ISO 27001 controls.
+
+* [*Vendor Risk Assessment Toolkit*](https://github.com/TrazTech-Inc/vendor-risk-assessment-toolkit)
+  * Vendor risk assessment templates, questionnaire, scoring framework, and automation.
+
+* [*Cloud Security Audit Scripts*](https://github.com/TrazTech-Inc/cloud-security-audit-scripts)
+  * Pre-audit cloud security scripts for AWS, GCP, and Azure.
+
 # :microphone: Podcasts
 
 * [*The SecureWorld Sessions*](https://podcasts.apple.com/us/podcast/the-secureworld-sessions/id1478674556)
