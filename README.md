@@ -140,6 +140,9 @@ The [Rapid Risk Analysis (RRA) methodology](https://infosec.mozilla.org/guidelin
     * Policy Generator: markdown-powered document pipeline for publishing auditor-friendly policy documents
     * Ticketing Integration: automate compliance throughout the year via your existing ticketing system
     * SOC2 Templates: open source policy and procedure templates suitable for satisfying a SOC2 audit
+* [*SOC 2 Policy Templates*](https://github.com/polaralabs/soc2-policy-templates)
+  * Free SOC 2 policy templates, registers and checklists in Word, PDF and Excel
+  * Each template mapped to the 2017 Trust Services Criteria it covers (CC BY 4.0)
 * [*CISO Assistant*](https://github.com/intuitem/ciso-assistant-community)
   * One-Stop-Shop solution for Governance, Risk Management and Compliance
   * Support +46 frameworks worldwide
