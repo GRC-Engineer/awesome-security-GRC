@@ -290,6 +290,10 @@ Added to that, each country would have specific cybersecurity regulations and st
 
 * [*Minimslist Risk Management*](https://github.com/magoo/minimalist-risk-management)
   * Ryan McGeehan, a founder/advisor for HackerOne, has developed minimalist documentation to describe a simple risk management program.
+* [*agent-access-review*](https://github.com/Mihirajmera/agent-access-review)
+  * Runs the user access review that SOX and SOC 2 programs already require, but on AI agents and MCP servers: owner, approval, recertification, least privilege, dormant access, with a sign-off packet and OSCAL output.
+* [*llm-redteam-evidence*](https://github.com/Mihirajmera/llm-redteam-evidence)
+  * Turns LLM red-team results into control-level audit evidence with documented risk tolerances, confidence bounds and a regression gate for model changes.
 
 # :microphone: Podcasts
 
