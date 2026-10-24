@@ -183,6 +183,10 @@ Well...  There are a lot.  Your organization likely uses some of these, but cert
 
 Added to that, each country would have specific cybersecurity regulations and standards companies would have to comply with. They could be specific to certain industries (critical infrastructures or financial services) or applicable to every company. As our planet is made of a lot of countries, we won't list the specifics here and as is often the case, US standards are picked up in most of the world anyway!
 
+### :mag: Audit & Compliance Tools
+
+- [Agent Index](https://theagentindex.io) - Free, source-verified directory and CC BY 4.0 open dataset ([agents.json](https://theagentindex.io/agents.json) & [auditors.json](https://theagentindex.io/auditors.json), DOI: [10.5281/zenodo.23604511](https://doi.org/10.5281/zenodo.23604511)) of 407+ AI agents for GRC, security, and risk, plus 503+ accredited audit firms (SOC 2, ISO 27001, ISO 42001, PCI DSS, HITRUST, FedRAMP, CMMC, CERT-In). Includes a [2026 SOC 2 Automation Buyer's Guide](https://theagentindex.io/guides/soc2-buyers-guide/).
+
 # :books: Books
 
 * [**Security Risk Management**, *Evan Wheeler*, 2011](https://learning.oreilly.com/library/view/security-risk-management/9781597496155/)
