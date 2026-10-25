@@ -149,6 +149,10 @@ The [Rapid Risk Analysis (RRA) methodology](https://infosec.mozilla.org/guidelin
   * API available, which gives a lot of options for integration and automation
   * Customizable and extensible with an open format and simple syntax (for custom framework or personalized matrix)
   * Open-source first and Very active community 
+* [*Policyseed*](https://github.com/odedmoshe/policyseed)
+  * Open-source (Apache-2.0) SOC 2 policy generator: renders the 22 governance policies from a single intake file
+  * Policy text follows the intake, so a team without enforced MFA gets a dated rollout requirement instead of a claim that MFA is in place
+  * CLI, a GitHub Action that fails CI when a policy review is overdue, and an MCP server for AI assistants
 
 #### Netflix's riskquant
 
